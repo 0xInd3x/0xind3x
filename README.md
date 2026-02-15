@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Smooky!
+# 👋 Hey, I'm ind3x!
 
 🎓 Cyfrin Updraft Student
 
