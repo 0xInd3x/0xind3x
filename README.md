@@ -8,37 +8,48 @@
 
 I'm learning about blockchain, smart contract. At [Cyfrin](https://cyfrin.io).
 
-- 🧠 Passionate about **Web3 Engineer**
+- 🧠 Passionate about building in **Web3**
+- ⚡ Focused on **Smart Contracts & Security**
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
-- **Languages:** C++, Javascript, React, Solidity
-- **Tooling:** Foundry, Hardhat
-- **Chains:** Ethereum, EVM
+### 💻 Languages
+- C++  
+- JavaScript  
+- Solidity  
 
+### ⚙️ Tools & Frameworks
+- Foundry  
+- Hardhat  
+- Node.js  
+- Express.js  
+- React.js  
+- MongoDB  
+
+### ⛓ Blockchain
+- Ethereum  
+- EVM-compatible chains  
 ---
 
 ### 🎓 Education
 
-- **Degree:** B.Tech [ Computer Science & Engineering ].  
-- **Learn Web3:** Cyfrin UpDraft
+- **B.Tech** [ Computer Science & Engineering ]
+- **Web3 Training** – Cyfrin Updraft
 
 ---
 
 ### 🔗 Projects & Highlights
 
-- 🛠️ ?
+- 🛠️ Coming soon... (currently building 🚧)
 
 ---
 
 ### 📬 Let’s Connect
 
-- 🗙 Twitter: ? 
-- 💻 Discord: ?
-- 🐙 GitHub: ?
-
+- 🗙 Twitter: OxInd3x
+- 💻 Discord: Oxsmooky
+- 🐙 GitHub: OxInd3x
+  
 ---
-
-- 📫 How to reach me by Email: ?
