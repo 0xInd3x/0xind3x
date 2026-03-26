@@ -48,8 +48,8 @@ I'm learning about blockchain, smart contract. At [Cyfrin](https://cyfrin.io).
 
 ### 📬 Let’s Connect
 
-- 🗙 Twitter: OxInd3x
-- 💻 Discord: Oxsmooky
-- 🐙 GitHub: OxInd3x
+- 🗙 Twitter: 0xInd3x
+- 💻 Discord: 0xsmooky
+- 🐙 GitHub: 0xInd3x
   
 ---
